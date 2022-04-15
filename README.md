@@ -13,6 +13,7 @@ In this game where you have a clothing factory, you hire employees and sell clot
 ### -Stock market trading.
 ### -Borrowing and payment from the bank.
 ### -Increasing your capacity by purchasing warehouses.
+### -A vibrant ecosystem of markets and exchanges
 
 ## Innovations To Be Added
 ### -Hire employee and increase production.
