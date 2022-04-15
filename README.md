@@ -6,6 +6,10 @@ In this game where you have a clothing factory, you hire employees and sell clot
 
 <br/>
 <img src="https://github.com/BekirrUgur/Idle-Fabric-Game/blob/main/Presentation/PrepareMenu.png" width="250px">
+<img src="https://github.com/BekirrUgur/Idle-Fabric-Game/blob/main/Presentation/MainMenu.png" width="250px">
+<img src="https://github.com/BekirrUgur/Idle-Fabric-Game/blob/main/Presentation/BankAccount.png" width="250px">
+<img src="https://github.com/BekirrUgur/Idle-Fabric-Game/blob/main/Presentation/StockMarket.png" width="250px">
+
 <br/>
 
 ## Game Mechanics and Features
